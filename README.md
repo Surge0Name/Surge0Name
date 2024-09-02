@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Surge0Name
-- 👀 I’m interested in python, ReactJs, Front-end Development
+- 👀 I’m interested in python, Data Science, ReactJs, Front-end Development
 - 🌱 I’m currently learning Data science.
 - 💞️ I’m looking to collaborate on aything, but there are still more that i don't understand yet so please bare with me
 - 📫 How to reach me: Hands
