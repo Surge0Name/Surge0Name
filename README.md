@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Surge0Name
+- 👋 Hi, I’m @Surge0Name (Sanjaya)
 - 👀 I’m interested in python, Data Science, ReactJs, Front-end Development
 - 🌱 I’m currently learning Data science.
 - 💞️ I’m looking to collaborate on aything, but there are still more that I don't understand yet so please bare with me
