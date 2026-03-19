@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Surge0Name (Sanjaya)
-- 👀 I’m interested in python, Data Science, ReactJs, Front-end Development
-- 🌱 I’m currently learning Data science.
+- 👀 I’m interested in python programing, Data Science, Data Analysis, and other things that include data and or Python
+- 🌱 I’m currently learning Data science and bulding my prtofolio. I am also doing some data analyts freelancing
 - 💞️ I’m looking to collaborate on aything, but there are still more that I don't understand yet so please bare with me
-- 📫 How to reach me: Hands
+- 📫 How to reach me:
+
+  :email: sanjaya12bjm@gmail.com
+  :iphone: +6288258002509
+  
 - 😄 Pronouns: I'm a dude
 - ⚡ Fun fact: [insert vaporeon breedable stuff here]
 
